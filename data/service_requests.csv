@@ -1,0 +1,81 @@
+id,requester_name,department,location,request_details,priority_score,status,estimated_hours
+1,Official Requester 1,City Energy Grid,Tech Innovation Park,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5001.,46,CLOSED,17
+2,Official Requester 2,Public Works,Old Town Heritage District,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5002.,90,IN_PROGRESS,22
+3,Official Requester 3,Fire Department,Downtown Central,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5003.,80,CLOSED,13
+4,Official Requester 4,Emergency Medical,Tech Innovation Park,Service dispatched for routine municipal maintenance and inspection under Emergency Medical. Ref SRQ-5004.,24,OPEN,21
+5,Official Requester 5,Urban Planning,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5005.,47,RESOLVED,55
+6,Official Requester 6,Urban Planning,East Gate Industrial Zone,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5006.,70,CLOSED,72
+7,Official Requester 7,City Energy Grid,East Gate Industrial Zone,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5007.,59,IN_PROGRESS,10
+8,Official Requester 8,Fire Department,South Hospital Complex,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5008.,63,RESOLVED,2
+9,Official Requester 9,Fire Department,Financial District,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5009.,48,CLOSED,21
+10,Official Requester 10,Urban Planning,Tech Innovation Park,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5010.,78,RESOLVED,44
+11,Official Requester 11,Environmental Protection,Greenfield Residential Zone,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5011.,68,RESOLVED,26
+12,Official Requester 12,Emergency Medical,West Lake Reservoir,Service dispatched for routine municipal maintenance and inspection under Emergency Medical. Ref SRQ-5012.,83,IN_PROGRESS,54
+13,Official Requester 13,Public Works,Civic Center,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5013.,50,CLOSED,50
+14,Official Requester 14,Environmental Protection,Riverfront Promenade,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5014.,94,IN_PROGRESS,65
+15,Official Requester 15,Public Works,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5015.,26,RESOLVED,14
+16,Official Requester 16,Urban Planning,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5016.,22,CLOSED,3
+17,Official Requester 17,City Energy Grid,Financial District,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5017.,62,IN_PROGRESS,11
+18,Official Requester 18,Urban Planning,South Hospital Complex,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5018.,43,CLOSED,12
+19,Official Requester 19,Traffic Control,Financial District,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5019.,96,CLOSED,42
+20,Official Requester 20,Urban Planning,Downtown Central,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5020.,79,OPEN,32
+21,Official Requester 21,Fire Department,Civic Center,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5021.,39,OPEN,57
+22,Official Requester 22,Water Supply Board,Civic Center,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5022.,91,OPEN,58
+23,Official Requester 23,City Energy Grid,Metro Station Plaza,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5023.,98,OPEN,7
+24,Official Requester 24,Traffic Control,Metro Station Plaza,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5024.,17,RESOLVED,49
+25,Official Requester 25,Environmental Protection,East Gate Industrial Zone,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5025.,28,CLOSED,25
+26,Official Requester 26,City Energy Grid,North Sector Substation,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5026.,32,CLOSED,32
+27,Official Requester 27,Urban Planning,Harbor Terminal,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5027.,84,IN_PROGRESS,61
+28,Official Requester 28,Fire Department,Metro Station Plaza,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5028.,68,OPEN,61
+29,Official Requester 29,Fire Department,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5029.,96,IN_PROGRESS,11
+30,Official Requester 30,Urban Planning,Old Town Heritage District,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5030.,54,RESOLVED,56
+31,Official Requester 31,Fire Department,Financial District,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5031.,68,RESOLVED,27
+32,Official Requester 32,Environmental Protection,North Sector Substation,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5032.,71,IN_PROGRESS,50
+33,Official Requester 33,Traffic Control,Metro Station Plaza,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5033.,83,RESOLVED,4
+34,Official Requester 34,Environmental Protection,Downtown Central,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5034.,45,OPEN,65
+35,Official Requester 35,Fire Department,Old Town Heritage District,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5035.,39,RESOLVED,30
+36,Official Requester 36,Emergency Medical,Metro Station Plaza,Service dispatched for routine municipal maintenance and inspection under Emergency Medical. Ref SRQ-5036.,89,IN_PROGRESS,14
+37,Official Requester 37,Public Works,Riverfront Promenade,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5037.,49,CLOSED,6
+38,Official Requester 38,Traffic Control,North Sector Substation,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5038.,26,RESOLVED,43
+39,Official Requester 39,Environmental Protection,East Gate Industrial Zone,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5039.,32,IN_PROGRESS,71
+40,Official Requester 40,Traffic Control,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5040.,77,RESOLVED,23
+41,Official Requester 41,Fire Department,Riverfront Promenade,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5041.,71,RESOLVED,45
+42,Official Requester 42,Water Supply Board,North Sector Substation,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5042.,69,IN_PROGRESS,30
+43,Official Requester 43,Environmental Protection,South Hospital Complex,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5043.,81,OPEN,52
+44,Official Requester 44,Public Works,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5044.,43,OPEN,60
+45,Official Requester 45,Traffic Control,Civic Center,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5045.,96,RESOLVED,50
+46,Official Requester 46,Traffic Control,Airport Corridor,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5046.,23,IN_PROGRESS,62
+47,Official Requester 47,Public Works,Greenfield Residential Zone,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5047.,89,RESOLVED,30
+48,Official Requester 48,Water Supply Board,Financial District,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5048.,91,CLOSED,40
+49,Official Requester 49,Environmental Protection,Harbor Terminal,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5049.,24,OPEN,6
+50,Official Requester 50,Fire Department,North Sector Substation,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5050.,73,OPEN,32
+51,Official Requester 51,City Energy Grid,Tech Innovation Park,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5051.,59,RESOLVED,71
+52,Official Requester 52,Environmental Protection,Civic Center,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5052.,85,IN_PROGRESS,55
+53,Official Requester 53,Water Supply Board,Old Town Heritage District,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5053.,72,CLOSED,37
+54,Official Requester 54,Public Works,South Hospital Complex,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5054.,98,IN_PROGRESS,58
+55,Official Requester 55,Urban Planning,Financial District,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5055.,40,RESOLVED,14
+56,Official Requester 56,Traffic Control,Greenfield Residential Zone,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5056.,79,RESOLVED,9
+57,Official Requester 57,Environmental Protection,East Gate Industrial Zone,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5057.,45,OPEN,60
+58,Official Requester 58,Water Supply Board,East Gate Industrial Zone,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5058.,94,OPEN,8
+59,Official Requester 59,Traffic Control,Harbor Terminal,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5059.,41,IN_PROGRESS,10
+60,Official Requester 60,Emergency Medical,East Gate Industrial Zone,Service dispatched for routine municipal maintenance and inspection under Emergency Medical. Ref SRQ-5060.,85,IN_PROGRESS,44
+61,Official Requester 61,City Energy Grid,Downtown Central,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5061.,86,RESOLVED,20
+62,Official Requester 62,City Energy Grid,Metro Station Plaza,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5062.,79,IN_PROGRESS,16
+63,Official Requester 63,Public Works,Downtown Central,Service dispatched for routine municipal maintenance and inspection under Public Works. Ref SRQ-5063.,26,RESOLVED,32
+64,Official Requester 64,Traffic Control,Harbor Terminal,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5064.,12,RESOLVED,8
+65,Official Requester 65,City Energy Grid,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5065.,63,OPEN,10
+66,Official Requester 66,Urban Planning,Riverfront Promenade,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5066.,67,RESOLVED,67
+67,Official Requester 67,Water Supply Board,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5067.,67,IN_PROGRESS,7
+68,Official Requester 68,Fire Department,Airport Corridor,Service dispatched for routine municipal maintenance and inspection under Fire Department. Ref SRQ-5068.,68,OPEN,9
+69,Official Requester 69,Urban Planning,West Lake Reservoir,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5069.,61,OPEN,64
+70,Official Requester 70,Urban Planning,Greenfield Residential Zone,Service dispatched for routine municipal maintenance and inspection under Urban Planning. Ref SRQ-5070.,19,OPEN,43
+71,Official Requester 71,City Energy Grid,Harbor Terminal,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5071.,18,RESOLVED,72
+72,Official Requester 72,Traffic Control,Old Town Heritage District,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5072.,58,RESOLVED,60
+73,Official Requester 73,Environmental Protection,Riverfront Promenade,Service dispatched for routine municipal maintenance and inspection under Environmental Protection. Ref SRQ-5073.,22,OPEN,72
+74,Official Requester 74,Emergency Medical,Tech Innovation Park,Service dispatched for routine municipal maintenance and inspection under Emergency Medical. Ref SRQ-5074.,65,IN_PROGRESS,54
+75,Official Requester 75,Traffic Control,West Lake Reservoir,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5075.,68,CLOSED,14
+76,Official Requester 76,Traffic Control,South Hospital Complex,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5076.,64,RESOLVED,49
+77,Official Requester 77,City Energy Grid,Greenfield Residential Zone,Service dispatched for routine municipal maintenance and inspection under City Energy Grid. Ref SRQ-5077.,97,CLOSED,10
+78,Official Requester 78,Water Supply Board,North Sector Substation,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5078.,20,CLOSED,14
+79,Official Requester 79,Traffic Control,Central Boulevard,Service dispatched for routine municipal maintenance and inspection under Traffic Control. Ref SRQ-5079.,26,OPEN,44
+80,Official Requester 80,Water Supply Board,South Hospital Complex,Service dispatched for routine municipal maintenance and inspection under Water Supply Board. Ref SRQ-5080.,62,CLOSED,8

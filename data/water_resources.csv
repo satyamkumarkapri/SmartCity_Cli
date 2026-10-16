@@ -1,0 +1,21 @@
+id,facility_name,location,capacity_mld,current_level_pct,status,daily_output_mld
+1,Water Treatment Plant B-1,Metro Station Plaza,159,74,OPERATIONAL,117.66
+2,Water Treatment Plant C-2,North Sector Substation,301,47,OPERATIONAL,141.47
+3,Water Treatment Plant D-3,North Sector Substation,119,89,OPERATIONAL,105.91
+4,Water Treatment Plant E-4,Greenfield Residential Zone,281,46,OPERATIONAL,129.26
+5,Water Treatment Plant F-5,Riverfront Promenade,277,40,MAINTENANCE_REQUIRED,110.8
+6,Water Treatment Plant G-6,South Hospital Complex,399,89,OPERATIONAL,355.11
+7,Water Treatment Plant H-7,Civic Center,391,57,OPERATIONAL,222.87
+8,Water Treatment Plant I-8,Central Boulevard,83,70,OPERATIONAL,58.1
+9,Water Treatment Plant J-9,Metro Station Plaza,198,92,OPERATIONAL,182.16
+10,Water Treatment Plant K-10,Civic Center,130,80,OPERATIONAL,104.0
+11,Water Treatment Plant L-11,Riverfront Promenade,376,46,OPERATIONAL,172.96
+12,Water Treatment Plant M-12,East Gate Industrial Zone,235,67,OPERATIONAL,157.45
+13,Water Treatment Plant N-13,Riverfront Promenade,112,47,OPERATIONAL,52.64
+14,Water Treatment Plant O-14,Riverfront Promenade,121,50,OPERATIONAL,60.5
+15,Water Treatment Plant P-15,South Hospital Complex,302,36,MAINTENANCE_REQUIRED,108.72
+16,Water Treatment Plant Q-16,South Hospital Complex,333,71,OPERATIONAL,236.43
+17,Water Treatment Plant R-17,Central Boulevard,289,86,OPERATIONAL,248.54
+18,Water Treatment Plant S-18,Greenfield Residential Zone,116,74,OPERATIONAL,85.84
+19,Water Treatment Plant T-19,Metro Station Plaza,94,39,MAINTENANCE_REQUIRED,36.66
+20,Water Treatment Plant U-20,Civic Center,253,80,OPERATIONAL,202.4

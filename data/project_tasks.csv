@@ -1,0 +1,25 @@
+task_id,task_name,duration_days,department,estimated_budget
+1,Geotechnical Soil Testing,12,Urban Planning,157723
+2,Environmental Impact Study,16,Environmental Protection,75205
+3,Underground Utility Survey,10,Urban Planning,105743
+4,Pipeline Trench Excavation,7,Fire Department,64409
+5,Storm Conduit Placement,6,Public Works,124901
+6,Pavement Foundation Pouring,3,Emergency Medical,69023
+7,Bituminous Surface Laying,5,Water Supply Board,170698
+8,Signal Pole Erection,4,Urban Planning,171705
+9,Fiber Optic Line Splicing,4,Emergency Medical,26596
+10,Sensors Calibration,15,Urban Planning,76430
+11,Safety Barrier Installation,20,Emergency Medical,29796
+12,Pedestrian Crossing Marking,7,Fire Department,76384
+13,Traffic Flow Telemetry Test,21,Traffic Control,166381
+14,Final Municipal Audit,13,Emergency Medical,94105
+15,Commissioning Sign-off,7,Emergency Medical,123412
+16,Drainage Infiltration Check,12,Fire Department,30979
+17,Retaining Wall Shoring,20,City Energy Grid,179100
+18,Culvert Reinforcement,16,Urban Planning,27290
+19,Substation Tie-in,14,Environmental Protection,152484
+20,Streetlight Wiring,13,Environmental Protection,122022
+21,CCTV Camera Hookup,7,Fire Department,113686
+22,Pumping Station Setup,8,Urban Planning,78168
+23,SCADA Remote Testing,10,Fire Department,52840
+24,Public Notification Notice,17,Public Works,162426

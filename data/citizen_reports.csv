@@ -1,0 +1,121 @@
+id,citizen_name,location,category,description,priority,status,reported_timestamp
+1,Ananya Verma #1,Downtown Central,NOISE,Municipal garbage overflow uncollected for five days causing sanitation hazard. Report code CR-1001.,MEDIUM,IN_PROGRESS,2026-10-03T23:06:00
+2,Karan Malhotra #2,North Sector Substation,TRAFFIC_SIGNAL,Power surge detected damaging residential electrical appliances. Report code CR-1002.,LOW,OPEN,2026-10-02T06:14:00
+3,Karan Malhotra #3,Old Town Heritage District,POTHOLE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1003.,MEDIUM,CLOSED,2026-10-04T14:37:00
+4,Vikram Patel #4,Riverfront Promenade,INFRASTRUCTURE,Major water pipeline rupture causing low pressure across local homes. Report code CR-1004.,MEDIUM,CLOSED,2026-10-06T08:09:00
+5,Priya Iyer #5,Riverfront Promenade,WATER_LEAK,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1005.,LOW,CLOSED,2026-10-02T11:54:00
+6,Sneha Rao #6,Old Town Heritage District,WATER_LEAK,Major water pipeline rupture causing low pressure across local homes. Report code CR-1006.,URGENT,OPEN,2026-10-15T12:05:00
+7,Karan Malhotra #7,Metro Station Plaza,INFRASTRUCTURE,Broken guardrail on overpass requires immediate structural repair. Report code CR-1007.,HIGH,IN_PROGRESS,2026-10-12T02:02:00
+8,Priya Iyer #8,Riverfront Promenade,WATER_LEAK,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1008.,MEDIUM,OPEN,2026-10-07T08:29:00
+9,Sneha Rao #9,Harbor Terminal,WATER_LEAK,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1009.,MEDIUM,RESOLVED,2026-10-12T21:41:00
+10,Ananya Verma #10,Old Town Heritage District,NOISE,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1010.,MEDIUM,IN_PROGRESS,2026-10-08T12:17:00
+11,Karan Malhotra #11,East Gate Industrial Zone,NOISE,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1011.,LOW,IN_PROGRESS,2026-10-14T01:51:00
+12,Sneha Rao #12,West Lake Reservoir,WATER_LEAK,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1012.,MEDIUM,RESOLVED,2026-10-04T20:31:00
+13,Aditya Joshi #13,Greenfield Residential Zone,NOISE,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1013.,MEDIUM,RESOLVED,2026-10-03T07:47:00
+14,Karan Malhotra #14,Central Boulevard,WATER_LEAK,Broken guardrail on overpass requires immediate structural repair. Report code CR-1014.,URGENT,CLOSED,2026-10-06T07:08:00
+15,Karan Malhotra #15,Tech Innovation Park,POTHOLE,Major water pipeline rupture causing low pressure across local homes. Report code CR-1015.,LOW,IN_PROGRESS,2026-10-11T05:50:00
+16,Aditya Joshi #16,Old Town Heritage District,POTHOLE,Power surge detected damaging residential electrical appliances. Report code CR-1016.,URGENT,CLOSED,2026-10-09T08:35:00
+17,Aarav Sharma #17,Airport Corridor,NOISE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1017.,HIGH,RESOLVED,2026-10-02T09:27:00
+18,Rohan Gupta #18,Tech Innovation Park,POTHOLE,Municipal garbage overflow uncollected for five days causing sanitation hazard. Report code CR-1018.,MEDIUM,OPEN,2026-10-14T20:19:00
+19,Karan Malhotra #19,Old Town Heritage District,STREETLIGHT,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1019.,HIGH,IN_PROGRESS,2026-10-09T16:58:00
+20,Aarav Sharma #20,Old Town Heritage District,WATER_LEAK,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1020.,LOW,OPEN,2026-10-15T11:56:00
+21,Vikram Patel #21,East Gate Industrial Zone,POTHOLE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1021.,LOW,OPEN,2026-10-12T15:52:00
+22,Ananya Verma #22,Riverfront Promenade,TRAFFIC_SIGNAL,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1022.,MEDIUM,CLOSED,2026-10-09T05:16:00
+23,Karan Malhotra #23,Financial District,TRAFFIC_SIGNAL,Power surge detected damaging residential electrical appliances. Report code CR-1023.,MEDIUM,IN_PROGRESS,2026-10-12T09:25:00
+24,Sneha Rao #24,Tech Innovation Park,TRAFFIC_SIGNAL,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1024.,LOW,IN_PROGRESS,2026-10-04T02:21:00
+25,Aarav Sharma #25,Old Town Heritage District,TRAFFIC_SIGNAL,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1025.,MEDIUM,OPEN,2026-10-02T22:40:00
+26,Aarav Sharma #26,East Gate Industrial Zone,POTHOLE,Major water pipeline rupture causing low pressure across local homes. Report code CR-1026.,HIGH,OPEN,2026-10-09T07:17:00
+27,Pooja Nair #27,East Gate Industrial Zone,TRAFFIC_SIGNAL,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1027.,URGENT,IN_PROGRESS,2026-10-13T15:51:00
+28,Aditya Joshi #28,East Gate Industrial Zone,POTHOLE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1028.,URGENT,RESOLVED,2026-10-07T13:29:00
+29,Aarav Sharma #29,Airport Corridor,NOISE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1029.,LOW,CLOSED,2026-10-12T10:51:00
+30,Ananya Verma #30,East Gate Industrial Zone,STREETLIGHT,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1030.,URGENT,IN_PROGRESS,2026-10-07T05:17:00
+31,Pooja Nair #31,East Gate Industrial Zone,INFRASTRUCTURE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1031.,URGENT,OPEN,2026-10-01T20:34:00
+32,Aarav Sharma #32,North Sector Substation,INFRASTRUCTURE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1032.,MEDIUM,CLOSED,2026-10-08T15:13:00
+33,Aditya Joshi #33,Greenfield Residential Zone,POTHOLE,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1033.,URGENT,OPEN,2026-10-07T08:59:00
+34,Pooja Nair #34,Metro Station Plaza,WASTE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1034.,URGENT,IN_PROGRESS,2026-10-04T09:13:00
+35,Aarav Sharma #35,Old Town Heritage District,NOISE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1035.,LOW,RESOLVED,2026-10-01T01:37:00
+36,Pooja Nair #36,Central Boulevard,INFRASTRUCTURE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1036.,MEDIUM,OPEN,2026-10-09T02:54:00
+37,Rohan Gupta #37,North Sector Substation,TRAFFIC_SIGNAL,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1037.,MEDIUM,CLOSED,2026-10-02T18:15:00
+38,Meera Sen #38,Old Town Heritage District,POTHOLE,Broken guardrail on overpass requires immediate structural repair. Report code CR-1038.,LOW,CLOSED,2026-10-11T18:36:00
+39,Karan Malhotra #39,South Hospital Complex,WATER_LEAK,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1039.,HIGH,IN_PROGRESS,2026-10-05T12:08:00
+40,Vikram Patel #40,Tech Innovation Park,WATER_LEAK,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1040.,LOW,CLOSED,2026-10-10T18:06:00
+41,Ananya Verma #41,Central Boulevard,STREETLIGHT,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1041.,HIGH,IN_PROGRESS,2026-10-15T11:56:00
+42,Ananya Verma #42,Greenfield Residential Zone,STREETLIGHT,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1042.,HIGH,IN_PROGRESS,2026-10-08T17:45:00
+43,Vikram Patel #43,Old Town Heritage District,INFRASTRUCTURE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1043.,LOW,RESOLVED,2026-10-15T21:06:00
+44,Rohan Gupta #44,Metro Station Plaza,POTHOLE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1044.,MEDIUM,RESOLVED,2026-10-05T19:13:00
+45,Sneha Rao #45,East Gate Industrial Zone,NOISE,Municipal garbage overflow uncollected for five days causing sanitation hazard. Report code CR-1045.,URGENT,RESOLVED,2026-10-15T01:05:00
+46,Aditya Joshi #46,Financial District,WATER_LEAK,Major water pipeline rupture causing low pressure across local homes. Report code CR-1046.,LOW,RESOLVED,2026-10-13T04:40:00
+47,Vikram Patel #47,Harbor Terminal,NOISE,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1047.,URGENT,OPEN,2026-10-02T02:56:00
+48,Rohan Gupta #48,Central Boulevard,POTHOLE,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1048.,MEDIUM,CLOSED,2026-10-03T01:19:00
+49,Sneha Rao #49,Greenfield Residential Zone,INFRASTRUCTURE,Major water pipeline rupture causing low pressure across local homes. Report code CR-1049.,HIGH,IN_PROGRESS,2026-10-11T07:42:00
+50,Ananya Verma #50,South Hospital Complex,INFRASTRUCTURE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1050.,URGENT,IN_PROGRESS,2026-10-15T07:55:00
+51,Rohan Gupta #51,Riverfront Promenade,INFRASTRUCTURE,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1051.,URGENT,OPEN,2026-10-03T23:59:00
+52,Sneha Rao #52,Riverfront Promenade,WASTE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1052.,HIGH,IN_PROGRESS,2026-10-13T22:06:00
+53,Aditya Joshi #53,Financial District,POTHOLE,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1053.,MEDIUM,IN_PROGRESS,2026-10-14T14:22:00
+54,Vikram Patel #54,Financial District,INFRASTRUCTURE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1054.,MEDIUM,OPEN,2026-10-11T06:25:00
+55,Sneha Rao #55,Metro Station Plaza,INFRASTRUCTURE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1055.,HIGH,RESOLVED,2026-10-11T16:25:00
+56,Karan Malhotra #56,South Hospital Complex,POTHOLE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1056.,HIGH,IN_PROGRESS,2026-10-10T08:02:00
+57,Ananya Verma #57,Old Town Heritage District,WASTE,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1057.,HIGH,CLOSED,2026-10-10T16:07:00
+58,Aditya Joshi #58,Greenfield Residential Zone,TRAFFIC_SIGNAL,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1058.,HIGH,OPEN,2026-10-12T13:00:00
+59,Karan Malhotra #59,Greenfield Residential Zone,INFRASTRUCTURE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1059.,MEDIUM,RESOLVED,2026-10-07T02:42:00
+60,Sneha Rao #60,Old Town Heritage District,WATER_LEAK,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1060.,HIGH,RESOLVED,2026-10-11T13:20:00
+61,Aditya Joshi #61,Civic Center,WATER_LEAK,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1061.,MEDIUM,IN_PROGRESS,2026-10-07T21:24:00
+62,Rohan Gupta #62,Old Town Heritage District,TRAFFIC_SIGNAL,Municipal garbage overflow uncollected for five days causing sanitation hazard. Report code CR-1062.,URGENT,OPEN,2026-10-05T09:13:00
+63,Aditya Joshi #63,Riverfront Promenade,TRAFFIC_SIGNAL,Broken guardrail on overpass requires immediate structural repair. Report code CR-1063.,HIGH,CLOSED,2026-10-08T14:43:00
+64,Priya Iyer #64,Central Boulevard,WASTE,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1064.,LOW,RESOLVED,2026-10-09T21:40:00
+65,Meera Sen #65,South Hospital Complex,POTHOLE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1065.,HIGH,IN_PROGRESS,2026-10-13T06:09:00
+66,Aarav Sharma #66,Downtown Central,STREETLIGHT,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1066.,LOW,CLOSED,2026-10-07T20:36:00
+67,Priya Iyer #67,Civic Center,NOISE,Power surge detected damaging residential electrical appliances. Report code CR-1067.,URGENT,CLOSED,2026-10-04T04:41:00
+68,Aarav Sharma #68,Greenfield Residential Zone,INFRASTRUCTURE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1068.,URGENT,IN_PROGRESS,2026-10-03T22:33:00
+69,Pooja Nair #69,Downtown Central,TRAFFIC_SIGNAL,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1069.,LOW,CLOSED,2026-10-03T14:42:00
+70,Karan Malhotra #70,Central Boulevard,TRAFFIC_SIGNAL,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1070.,URGENT,CLOSED,2026-10-14T17:28:00
+71,Rohan Gupta #71,Civic Center,INFRASTRUCTURE,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1071.,URGENT,RESOLVED,2026-10-13T07:53:00
+72,Vikram Patel #72,Riverfront Promenade,INFRASTRUCTURE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1072.,URGENT,IN_PROGRESS,2026-10-05T14:04:00
+73,Vikram Patel #73,East Gate Industrial Zone,WATER_LEAK,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1073.,HIGH,OPEN,2026-10-03T04:14:00
+74,Aditya Joshi #74,Civic Center,STREETLIGHT,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1074.,LOW,CLOSED,2026-10-07T10:34:00
+75,Pooja Nair #75,West Lake Reservoir,POTHOLE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1075.,URGENT,CLOSED,2026-10-15T18:44:00
+76,Aarav Sharma #76,Financial District,INFRASTRUCTURE,Broken guardrail on overpass requires immediate structural repair. Report code CR-1076.,URGENT,CLOSED,2026-10-01T11:19:00
+77,Aditya Joshi #77,Financial District,INFRASTRUCTURE,Power surge detected damaging residential electrical appliances. Report code CR-1077.,MEDIUM,CLOSED,2026-10-04T08:27:00
+78,Pooja Nair #78,Downtown Central,WASTE,Loud construction noise reported beyond permissible nighttime curfew. Report code CR-1078.,URGENT,IN_PROGRESS,2026-10-14T14:58:00
+79,Rohan Gupta #79,Old Town Heritage District,TRAFFIC_SIGNAL,Major water pipeline rupture causing low pressure across local homes. Report code CR-1079.,URGENT,OPEN,2026-10-02T20:27:00
+80,Rohan Gupta #80,Financial District,WASTE,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1080.,LOW,RESOLVED,2026-10-07T10:13:00
+81,Pooja Nair #81,South Hospital Complex,WATER_LEAK,Power surge detected damaging residential electrical appliances. Report code CR-1081.,HIGH,CLOSED,2026-10-05T02:30:00
+82,Aarav Sharma #82,Civic Center,TRAFFIC_SIGNAL,Major water pipeline rupture causing low pressure across local homes. Report code CR-1082.,HIGH,IN_PROGRESS,2026-10-11T02:49:00
+83,Aarav Sharma #83,Riverfront Promenade,POTHOLE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1083.,MEDIUM,OPEN,2026-10-10T04:15:00
+84,Rohan Gupta #84,Tech Innovation Park,NOISE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1084.,MEDIUM,CLOSED,2026-10-12T08:49:00
+85,Sneha Rao #85,Harbor Terminal,TRAFFIC_SIGNAL,Broken guardrail on overpass requires immediate structural repair. Report code CR-1085.,LOW,IN_PROGRESS,2026-10-05T03:37:00
+86,Aarav Sharma #86,Greenfield Residential Zone,WATER_LEAK,Broken guardrail on overpass requires immediate structural repair. Report code CR-1086.,URGENT,CLOSED,2026-10-12T06:04:00
+87,Meera Sen #87,Civic Center,INFRASTRUCTURE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1087.,LOW,RESOLVED,2026-10-14T21:38:00
+88,Ananya Verma #88,Riverfront Promenade,TRAFFIC_SIGNAL,Major water pipeline rupture causing low pressure across local homes. Report code CR-1088.,HIGH,CLOSED,2026-10-11T11:04:00
+89,Karan Malhotra #89,Airport Corridor,WATER_LEAK,Major water pipeline rupture causing low pressure across local homes. Report code CR-1089.,URGENT,CLOSED,2026-10-02T13:23:00
+90,Pooja Nair #90,Civic Center,STREETLIGHT,Power surge detected damaging residential electrical appliances. Report code CR-1090.,MEDIUM,RESOLVED,2026-10-10T17:49:00
+91,Pooja Nair #91,Tech Innovation Park,WASTE,Broken guardrail on overpass requires immediate structural repair. Report code CR-1091.,HIGH,RESOLVED,2026-10-14T07:53:00
+92,Ananya Verma #92,Metro Station Plaza,WASTE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1092.,URGENT,CLOSED,2026-10-06T00:31:00
+93,Sneha Rao #93,Harbor Terminal,WASTE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1093.,HIGH,RESOLVED,2026-10-06T08:56:00
+94,Meera Sen #94,Civic Center,WATER_LEAK,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1094.,LOW,IN_PROGRESS,2026-10-02T07:46:00
+95,Aditya Joshi #95,Tech Innovation Park,TRAFFIC_SIGNAL,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1095.,URGENT,CLOSED,2026-10-08T00:05:00
+96,Vikram Patel #96,East Gate Industrial Zone,WASTE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1096.,HIGH,RESOLVED,2026-10-08T17:33:00
+97,Sneha Rao #97,West Lake Reservoir,NOISE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1097.,HIGH,RESOLVED,2026-10-12T14:17:00
+98,Vikram Patel #98,Metro Station Plaza,STREETLIGHT,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1098.,MEDIUM,RESOLVED,2026-10-02T23:34:00
+99,Rohan Gupta #99,East Gate Industrial Zone,STREETLIGHT,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1099.,HIGH,RESOLVED,2026-10-02T06:18:00
+100,Priya Iyer #100,South Hospital Complex,STREETLIGHT,Municipal garbage overflow uncollected for five days causing sanitation hazard. Report code CR-1100.,LOW,IN_PROGRESS,2026-10-05T01:03:00
+101,Karan Malhotra #101,Metro Station Plaza,NOISE,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1101.,URGENT,OPEN,2026-10-14T00:36:00
+102,Vikram Patel #102,Tech Innovation Park,WASTE,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1102.,HIGH,IN_PROGRESS,2026-10-01T08:55:00
+103,Pooja Nair #103,North Sector Substation,INFRASTRUCTURE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1103.,URGENT,CLOSED,2026-10-02T18:40:00
+104,Aarav Sharma #104,Harbor Terminal,STREETLIGHT,Broken guardrail on overpass requires immediate structural repair. Report code CR-1104.,HIGH,OPEN,2026-10-04T03:35:00
+105,Aditya Joshi #105,Old Town Heritage District,TRAFFIC_SIGNAL,Broken guardrail on overpass requires immediate structural repair. Report code CR-1105.,MEDIUM,CLOSED,2026-10-08T14:19:00
+106,Meera Sen #106,West Lake Reservoir,WATER_LEAK,Broken guardrail on overpass requires immediate structural repair. Report code CR-1106.,LOW,OPEN,2026-10-13T06:40:00
+107,Priya Iyer #107,Metro Station Plaza,NOISE,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1107.,MEDIUM,IN_PROGRESS,2026-10-03T17:04:00
+108,Rohan Gupta #108,Downtown Central,WASTE,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1108.,URGENT,RESOLVED,2026-10-01T07:18:00
+109,Vikram Patel #109,Civic Center,INFRASTRUCTURE,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1109.,LOW,IN_PROGRESS,2026-10-15T08:50:00
+110,Meera Sen #110,Airport Corridor,INFRASTRUCTURE,Deep pothole near school crossing presenting imminent danger to cyclists. Report code CR-1110.,URGENT,OPEN,2026-10-09T07:41:00
+111,Rohan Gupta #111,Greenfield Residential Zone,WATER_LEAK,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1111.,LOW,OPEN,2026-10-03T09:38:00
+112,Meera Sen #112,Greenfield Residential Zone,WATER_LEAK,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1112.,LOW,CLOSED,2026-10-12T09:44:00
+113,Aditya Joshi #113,Metro Station Plaza,TRAFFIC_SIGNAL,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1113.,URGENT,CLOSED,2026-10-02T19:02:00
+114,Aditya Joshi #114,Civic Center,WATER_LEAK,Broken guardrail on overpass requires immediate structural repair. Report code CR-1114.,HIGH,OPEN,2026-10-02T07:43:00
+115,Meera Sen #115,Old Town Heritage District,POTHOLE,Municipal garbage overflow uncollected for five days causing sanitation hazard. Report code CR-1115.,LOW,IN_PROGRESS,2026-10-08T16:41:00
+116,Pooja Nair #116,Greenfield Residential Zone,WATER_LEAK,Streetlights completely dark for three consecutive nights on arterial road. Report code CR-1116.,URGENT,CLOSED,2026-10-02T15:22:00
+117,Aditya Joshi #117,South Hospital Complex,WATER_LEAK,Traffic signals malfunctioning during morning rush hour causing long queues. Report code CR-1117.,MEDIUM,RESOLVED,2026-10-07T22:31:00
+118,Vikram Patel #118,Airport Corridor,WASTE,Storm drain clogged with debris resulting in street waterlogging. Report code CR-1118.,LOW,CLOSED,2026-10-02T10:16:00
+119,Sneha Rao #119,North Sector Substation,INFRASTRUCTURE,Power surge detected damaging residential electrical appliances. Report code CR-1119.,LOW,CLOSED,2026-10-07T01:12:00
+120,Karan Malhotra #120,South Hospital Complex,TRAFFIC_SIGNAL,Cracked sidewalk pavement posing tripping hazard for senior citizens. Report code CR-1120.,URGENT,OPEN,2026-10-04T08:35:00

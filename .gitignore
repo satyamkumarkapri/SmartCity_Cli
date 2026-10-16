@@ -1,3 +1,12 @@
 bin/
+target/
 *.class
 .DS_Store
+.settings/
+*.log
+
+# Large Wikipedia dumps and raw caches (keep directory structure and sample files)
+data/corpus/*.bz2
+data/corpus/*.xml
+data/corpus/*.gz
+data/processed/*.raw

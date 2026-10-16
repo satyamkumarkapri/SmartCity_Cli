@@ -1,0 +1,21 @@
+id,grid_station,location,rated_mva,current_load_pct,source_type,unit_cost_usd_kwh
+1,Substation Alpha-101,West Lake Reservoir,590,78,WIND_SUBSTATION,0.1223
+2,Substation Alpha-102,South Hospital Complex,175,53,SOLAR_ARRAY,0.085
+3,Substation Alpha-103,South Hospital Complex,796,78,THERMAL_TURBINE,0.1278
+4,Substation Alpha-104,Old Town Heritage District,664,85,THERMAL_TURBINE,0.1168
+5,Substation Alpha-105,Central Boulevard,232,72,SOLAR_ARRAY,0.1231
+6,Substation Alpha-106,Metro Station Plaza,630,54,THERMAL_TURBINE,0.0562
+7,Substation Alpha-107,Central Boulevard,330,67,HYDRO_PUMPED,0.1246
+8,Substation Alpha-108,Airport Corridor,356,57,BIOMASS_COGEN,0.0674
+9,Substation Alpha-109,Old Town Heritage District,740,64,BIOMASS_COGEN,0.0493
+10,Substation Alpha-110,Old Town Heritage District,756,55,BIOMASS_COGEN,0.0554
+11,Substation Alpha-111,Civic Center,774,84,BIOMASS_COGEN,0.0738
+12,Substation Alpha-112,Financial District,677,47,SOLAR_ARRAY,0.0481
+13,Substation Alpha-113,Metro Station Plaza,756,81,THERMAL_TURBINE,0.1167
+14,Substation Alpha-114,Airport Corridor,526,84,SOLAR_ARRAY,0.0898
+15,Substation Alpha-115,Metro Station Plaza,742,79,HYDRO_PUMPED,0.0883
+16,Substation Alpha-116,Tech Innovation Park,515,64,SOLAR_ARRAY,0.1089
+17,Substation Alpha-117,West Lake Reservoir,261,73,WIND_SUBSTATION,0.0864
+18,Substation Alpha-118,Harbor Terminal,448,83,HYDRO_PUMPED,0.1261
+19,Substation Alpha-119,Financial District,426,91,HYDRO_PUMPED,0.1375
+20,Substation Alpha-120,Central Boulevard,233,68,BIOMASS_COGEN,0.0506
