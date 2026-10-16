@@ -27,6 +27,7 @@
 7. [Step-by-Step Project Review & Demonstration Guide](#-step-by-step-project-review--demonstration-guide)
 8. [Building, Testing, and Deployment](#-building-testing-and-deployment)
 9. [Verification & Mathematical Guarantees](#-verification--mathematical-guarantees)
+10. [Documentation & Academic Reports (`docs/`)](#-documentation--academic-reports-docs)
 
 ---
 
@@ -466,6 +467,23 @@ java -jar target/smartcity.jar
 | **FPTAS** | Knapsack Approximation | $\text{Value}(S) \ge (1 - \varepsilon) \cdot \text{OPT}$ |
 | **Parallelism** | Brent's Scheduling Bound | $T_P \le \frac{W - S}{P} + S$ |
 | **Stream Sampling** | Unbiased probability | Every element in stream of size $N$ has exact selection probability $k / N$ |
+
+---
+
+## 📚 Documentation & Academic Reports (`docs/`)
+
+Comprehensive academic documentation, diagrams, complexity proofs, and presentation decks are maintained in [`docs/`](docs/):
+
+| Document | Description | Link |
+| :--- | :--- | :---: |
+| **PBL Final Project Report** | Complete 19-page academic project report (Problem, Objectives, Architecture, M1–M6, Testing, Debugging, Benchmarks, Team Contributions) | [FINAL_PROJECT_REPORT.md](docs/FINAL_PROJECT_REPORT.md) |
+| **20-Slide Defense Presentation** | Complete 20-slide defense presentation deck with speaker notes, theoretical formulations, and live demo flows | [PRESENTATION_SLIDES_20.md](docs/PRESENTATION_SLIDES_20.md) |
+| **System Architecture Guide** | Layered component boundaries, data flow sequences, and zero-JCF policy enforcement | [ARCHITECTURE.md](docs/ARCHITECTURE.md) |
+| **Algorithm Catalog** | Detailed index of all algorithms across Modules 1–6 (CO1–CO6) with mathematical invariants | [ALGORITHM_CATALOG.md](docs/ALGORITHM_CATALOG.md) |
+| **Complexity & Theoretical Analysis** | Asymptotic time/space bounds, recurrences, and Brent's Theorem proofs | [COMPLEXITY_ANALYSIS.md](docs/COMPLEXITY_ANALYSIS.md) |
+| **Municipal Dataset Guide** | Specifications and schemas for all 16 local RFC-4180 CSV/JSONL datasets | [DATASET_GUIDE.md](docs/DATASET_GUIDE.md) |
+| **Testing Methodology & Test Cases** | JUnit 5 test suite catalog, test matrices (TC-1 to TC-7), and embedded regression assertions | [TESTING.md](docs/TESTING.md) |
+| **CLI User Guide** | Operational manual for running, navigating, and inspecting the 17 interactive terminal modules | [USER_GUIDE.md](docs/USER_GUIDE.md) |
 
 ---
 

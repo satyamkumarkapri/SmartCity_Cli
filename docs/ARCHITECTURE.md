@@ -105,3 +105,14 @@ To preserve academic and software engineering rigor, all algorithm packages (`sm
 - **Prohibited**: `java.util.ArrayList`, `LinkedList`, `HashMap`, `HashSet`, `TreeMap`, `TreeSet`, `PriorityQueue`, `Stack`, `Queue`, `Arrays.sort`, `Collections.sort`.
 - **Allowed & Enforced**: Custom data structures implemented under `smartcity.structures.*` (`DynamicArray`, `IntArrayList`, `CustomHashMap`, `CustomHashSet`, `CustomStack`, `CircularQueue`, `CustomDeque`, `CustomPriorityQueue`, `DisjointSetUnion`, `CustomTrie`, `CustomGraph`, `CustomFlowNetwork`, `CustomSort`).
 - **Primitives Permitted**: Basic Java arrays (`int[]`, `char[]`, `double[]`), `java.math.BigInteger` (for overflow-safe modular exponentiation in Miller-Rabin), standard Java I/O streams in dataset/cli layers, and concurrency primitives (`ForkJoinPool`, `RecursiveTask`) in parallel algorithm wrappers.
+
+---
+
+## 5. Related Academic Documentation
+
+- 📄 [PBL Final Project Report](FINAL_PROJECT_REPORT.md) — Complete 19-page formal report for Course 25CS2103E.
+- 📊 [20-Slide Presentation Deck](PRESENTATION_SLIDES_20.md) — Comprehensive defense deck with theoretical formulations and speaker notes.
+- 📚 [Algorithm Catalog](ALGORITHM_CATALOG.md) — Detailed mapping of all Modules 1–6 (CO1–CO6) algorithms.
+- 📐 [Complexity & Theoretical Analysis](COMPLEXITY_ANALYSIS.md) — Mathematical complexity proofs and asymptotic bounds.
+- 🧪 [Testing Methodology & Test Cases](TESTING.md) — Verification suite breakdown and JUnit 5 regression matrix.
+
